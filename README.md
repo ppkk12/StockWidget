@@ -18,6 +18,8 @@
 
 ## ダウンロード方法⇩↓
 
+### https://github.com/ppkk12/StockWidget/releases/tag/v1.0.0
+
 StockWidget Setup 1.0.0.exe を実行してインストールします。インストール後は、デスクトップのショートカットから起動します。
 
 ## 対応OS・バージョン💻
